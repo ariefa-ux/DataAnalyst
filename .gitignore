@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Data (Optional: if you want to exclude generated CSVs)
+# sales_data.csv
+# finance_data.csv
+
+# Visualizations
+*.png
+*.jpg
+*.jpeg
+
+# IDE
+.vscode/
+.idea/
